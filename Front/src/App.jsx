@@ -1,9 +1,9 @@
 
-import Header from './components/Header'
-import Progress from './components/Progress'
-import Games from './components/Games'
+import Header from './componentes/Header'
+import Progress from './componentes/Progress'
+import Games from './componentes/Games'
 import { useState, useEffect, useRef } from 'react'
-import FavoriteForm from './components/FavoriteForm';
+import FavoriteForm from './componentes/FavoriteForm';
 
 
 
